@@ -3,7 +3,7 @@ import React from "react";
 const Page = () => {
   return(
     <>
-      hello i am an idiot
+      my name is Ismail
     </>
   )
 };
